@@ -4,8 +4,7 @@ import Login from "./login/page";
 export default function Home() {
   
   return (
-    <section className="bg-[url(https://assets-global.website-files.com/5a9ee6416e90d20001b20038/64f5cf67fa749671fe8ec424_Rectangle%20(33).svg)]
-    dark:bg-[url(https://assets-global.website-files.com/5a9ee6416e90d20001b20038/635abae510f6a454f9303bb2_horizontal%20(87).svg)] bg-no-repeat bg-cover">
+    <section className="bg-[url(https://img.freepik.com/free-photo/black-background-with-white-spotlight_53876-104891.jpg?size=626&ext=jpg&ga=GA1.1.34264412.1706486400&semt=ais)] bg-no-repeat bg-cover h-screen flex justify-center items-center">
        <Login/>
     </section>
     
